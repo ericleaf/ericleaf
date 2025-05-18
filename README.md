@@ -2,7 +2,7 @@
 
 - A public affairs worker who want to resolve some problem with coding.
 - Now studying in [**DBA**](https://www.dba.ntpu.edu.tw/) and [**DPAP**](https://pa.ntpu.edu.tw/zh-tw) of National Taipei University.
-- Studying in [**DPA**](https://pa.nccu.edu.tw/) of National Chengchi University after August, 2025.
+- Studying in graduate school of [**DPA**](https://pa.nccu.edu.tw/) of National Chengchi University after August, 2025.
 
 ## What I use
 ### Languages:
